@@ -1,4 +1,4 @@
-# FTP Lab
+# FTP(File Transfer Protocol) Lab
 
 This lab demonstrates a basic FTP server setup and connectivity within a small network. The topology includes:
 
