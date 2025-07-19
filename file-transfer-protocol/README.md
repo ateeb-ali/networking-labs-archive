@@ -18,7 +18,7 @@ This lab demonstrates a basic FTP server setup and connectivity within a small n
 ---
 
 ### 📁 Files Included
-- `FTP-Lab.pkt`: Packet Tracer file with the complete lab setup
+- `ftp.pkt`: Packet Tracer file with the complete lab setup
 - `Topology.png`: A topology screenshot from the pkt file
 - `README.md`: This file
 
