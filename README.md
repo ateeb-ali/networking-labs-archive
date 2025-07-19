@@ -1,6 +1,6 @@
 # Networking Labs Archive
 
-This repository contains my collection of networking labs completed using Cisco Packet Tracer that I performed during my CCNA courses on NetAcad. It serves as my personal archive and learning journal for practicing core networking concepts.
+This repository contains my collection of a few networking labs completed using Cisco Packet Tracer that I performed during my CCNA courses on NetAcad. It serves as my personal archive and learning journal for practicing core networking concepts.(It does not contain all the labs I created because I lost access to most of them)
 
 ## 📌 About
 
