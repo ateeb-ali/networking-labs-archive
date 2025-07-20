@@ -41,7 +41,7 @@ This lab demonstrates a multi-area OSPF network integrated with external BGP usi
 
 ## 📂 Files Included
 
-- `OSPF.pkt` – Main Packet Tracer file (OSPF + BGP)
+- `OSPF.pkt` – Packet Tracer file with complete topology and configurations (OSPF + BGP)
 - `README.md` – This file
 - Topology screenshots:
   - `topology-full.png`
