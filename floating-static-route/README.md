@@ -33,7 +33,7 @@ This lab demonstrates how to configure **floating static routes** in Cisco route
 
 ## 📁 Files Included
 
-- `Floating-Static-Route.pkt` — Packet Tracer file with full configured lab
+- `floating-routing.pkt` — Packet Tracer file with full configured lab
 - `README.md` — This file
 - `Topology.png` — The Topology's screenshot from the pkt file
 ---
