@@ -51,7 +51,6 @@ The network consists of multiple routers, switches, and end devices segmented in
 |----------------------|---------------------------------------------|
 | `AD-Lab.pkt`          | Packet Tracer lab file                      |
 | `README.md`           | This documentation                         |
-| `configurations/`     | (Optional) Folder for CLI router configs   |
 
 ## 📘 References
 
