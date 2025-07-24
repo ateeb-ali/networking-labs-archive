@@ -52,10 +52,7 @@ The network consists of multiple routers, switches, and end devices segmented in
 | `AD-Lab.pkt`          | Packet Tracer lab file                      |
 | `README.md`           | This documentation                         |
 
-## 📘 References
 
-- [Cisco Documentation on Administrative Distance](https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13769-50.html)
-- Cisco Networking Academy materials
 
 ---
 
