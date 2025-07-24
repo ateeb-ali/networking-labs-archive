@@ -49,7 +49,7 @@ The network consists of multiple routers, switches, and end devices segmented in
 
 | File Name             | Description                                 |
 |----------------------|---------------------------------------------|
-| `AD-Lab.pkt`          | Packet Tracer lab file                      |
+| `administrative-distance.pkt`          | Packet Tracer lab file                      |
 | `README.md`           | This documentation                         |
 
 
