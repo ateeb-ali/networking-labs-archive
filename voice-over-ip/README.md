@@ -54,7 +54,7 @@ The network includes:
 
 | File Name            | Description                        |
 |---------------------|------------------------------------|
-| `VoIP-Lab.pkt`       | Cisco Packet Tracer project file   |
+| `voip.pkt`       | Cisco Packet Tracer project file   |
 | `README.md`          | This documentation                |
 | `topology.png` | The topology's screenshot from the file      |
 
