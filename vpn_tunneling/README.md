@@ -4,24 +4,6 @@ This lab simulates a **Site-to-Site VPN Tunnel** between two remote office netwo
 
 ---
 
-## 📐 Network Topology
-
-```text
-   PC0                         PC2
-  [10.0.0.2]                [20.0.0.2]
-     |                          |
-     |                          |
-10.0.0.0/24              20.0.0.0/24
-     |                          |
-   Router0 --- Router1 --- Router2 --- Router3
-     |         |          |         |
-30.0.0.1   30.0.0.2   40.0.0.2   50.0.0.2
-                                |
-                             (Public)
-```
-
----
-
 ## 🎯 Objectives
 
 - Establish an **IPSec VPN tunnel** between **Router0** and **Router3**.
