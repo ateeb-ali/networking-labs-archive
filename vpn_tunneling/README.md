@@ -117,12 +117,11 @@ show crypto ipsec sa
 ```
 
 ### 📁 Files Included
-`topology.png` – Network diagram
-`README.md` - this file
-`vpn_tunneling.pkt` – Cisco Packet Tracer file
+- `topology.png` – Network diagram
+- `README.md` - this file
+- `vpn_tunneling.pkt` – Cisco Packet Tracer file
 
 ### 📝 Notes
-Ensure interface IPs and subnet masks are set correctly.
-All router interfaces should be up.
-ACLs must accurately reflect the interesting traffic for VPN.
-VPN PSK used in this lab: cisco
+- Ensure interface IPs and subnet masks are set correctly.
+- All router interfaces should be up.
+- ACLs must accurately reflect the interesting traffic for VPN.
