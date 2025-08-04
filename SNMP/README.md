@@ -25,7 +25,7 @@ To simulate a basic SNMP lab setup where:
 
 ## 🔧 What’s Included
 
-- `snmp-lab.pkt` — Packet Tracer file with the configured topology.
+- `SNMP.pkt` — Packet Tracer file with the configured topology.
 - `README.md` — This file.
 - `topology.png` — Screenshot of the network topology for quick reference.
 
